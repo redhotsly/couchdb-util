@@ -1,0 +1,26 @@
+{
+  "name": "couchdb-util",
+  "version": "0.0.0",
+  "description": "utility to manage couchdb design docs",
+  "main": "cu.js",
+  "dependencies": {
+    "async": "~0.2.5",
+    "request": "~2.14.0",
+    "step": "~0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://redhotsly@github.com/redhotsly/couchdb-util.git"
+  },
+  "keywords": [
+    "couchdb"
+  ],
+  "author": "redhotsly",
+  "license": "MIT",
+  "gitHead": "5ca2085c69804fda34d3ac112afa47149ac4e089",
+  "readmeFilename": "readme.md"
+}
